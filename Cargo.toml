@@ -1,0 +1,7 @@
+[package]
+name = "mocktopus_example"
+version = "0.1.0"
+authors = ["Jtremback <jehan.tremback@gmail.com>"]
+
+[dev-dependencies]
+mocktopus = { git = "https://github.com/jtremback/Mocktopus"}
